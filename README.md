@@ -1,3 +1,5 @@
-# DFP40443 Week 2 Project
-Author: YU YI XUE
-Description: Profile webpage split into index.php, style.css, biodata.php
+YU YI XUE
+<br>
+18DIT24F1116
+DIT4B
+DIT4B_18DIT24F1116_yuyixue
